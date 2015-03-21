@@ -82,7 +82,7 @@ body {
 .nose-gradient {
   background-image: -webkit-radial-gradient(13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
   background-image: -moz-radial-gradient(13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
-  background-image: -radial-gradient(ciecle at 13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
+  background-image: radial-gradient(circle at 13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
 }
 .eyes:before {
   width: 20px;
@@ -90,7 +90,7 @@ body {
   background-color: #e60000;
   background-image: -webkit-radial-gradient(13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
   background-image: -moz-radial-gradient(13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
-  background-image: -radial-gradient(ciecle at 13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
+  background-image: radial-gradient(circle at 13px 7px, #ffffff 10%, #cc0000 50%, #e60000);
   content: '';
   position: absolute;
   border-radius: 50%;
