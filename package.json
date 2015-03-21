@@ -1,0 +1,28 @@
+{
+  "name": "doraemon-css",
+  "version": "0.1.0",
+  "description": "Doraemon in css, towry's version",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/towry/doraemon-css.git"
+  },
+  "keywords": [
+    "css",
+    "css3"
+  ],
+  "author": "Towry Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/towry/doraemon-css/issues"
+  },
+  "homepage": "https://github.com/towry/doraemon-css",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-less": "^3.0.1",
+    "gulp-minify-css": "^1.0.0"
+  }
+}
